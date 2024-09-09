@@ -1,2 +1,4 @@
-# goph419-f2024-lab00-stMD
-LAB 00
+# GOPH 419 – Computational Methods for Geophysicists
+*Semester:* F2024
+*Instructor:* B. Karchewski
+*Author:* Matthew Davidson
